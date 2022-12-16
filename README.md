@@ -8,3 +8,7 @@
 ![starry_night](./video/starry_night.gif)
 - 「神奈川沖浪裏」の変換ネットワークでスタイル変換したときの描画結果
 ![the_wave](./video/the_wave.gif)
+- 「ラ・ミューズ」の変換ネットワークでスタイル変換したときの描画結果
+![la_muse](./video/la_muse.gif)
+- 「コンポジションvii」の変換ネットワークでスタイル変換したときの描画結果 
+![composition_vii](./video/composition_vii.gif)
