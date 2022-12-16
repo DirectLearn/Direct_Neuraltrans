@@ -6,3 +6,5 @@
 ![origin](./video/origin.gif)  
 - 「星月夜」の変換ネットワークでスタイル変換したときの描画結果
 ![starry_night](./video/starry_night.gif)
+- 「神奈川沖浪裏」の変換ネットワークでスタイル変換したときの描画結果
+![the_wave](./video/the_wave.gif)
